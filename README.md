@@ -10,7 +10,7 @@ I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to
 - 💬 Ask me about BigCommerce!
 - 📫 How to reach me: glynn.jordan@bigcommerce.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In 2023, I attended two epic sporting events: The World Baseball Classic (https://en.wikipedia.org/wiki/2023_World_Baseball_Classic) where Shohei Ohtani won the championship for his country of Japan! - and the Superclasico (https://en.wikipedia.org/wiki/Supercl%C3%A1sico) in Buenos Aires, "known worldwide as one of the fiercest and most important derbies".
+- ⚡ Fun fact: In 2023, I attended two epic sporting events: [The World Baseball Classic](https://en.wikipedia.org/wiki/2023_World_Baseball_Classic) where Shohei Ohtani won the championship for his country of Japan! - and the [Superclasico](https://en.wikipedia.org/wiki/Supercl%C3%A1sico) in Buenos Aires, "known worldwide as one of the fiercest and most important derbies".
 
 ## My GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=glynnsanity&show_icons=true&theme=radical)
