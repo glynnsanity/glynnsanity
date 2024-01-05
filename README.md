@@ -1,7 +1,7 @@
 # Hello, I'm Glynn! 👋
 
 ## About Me 🚀
-I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to some extent for the greater good. When I'm not coding, you can find me doing many things, chief among them right now being learning Spanish!
+I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to some extent for the greater good. When I'm not coding, you can find me doing many things, chief among them right now being learning Spanish! My profile image is a drawing by my favorite illustrator, Jean Giraud, also known as Moebius.
 
 ## My Work 💻
 - 🔭 Currently hacking and slinging SaaS at BigCommerce, focusing on NextJS and utilizing AI services to build more powerful developer tools.
@@ -18,5 +18,7 @@ I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to
 ## Featured Projects 🌟
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glynnsanity&repo=bigc-mimic)](https://github.com/glynnsanity/bigc-mimic)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gje4&repo=BigCommerceMakeswift)](https://github.com/gje4/BigCommerceMakeswift)
+
+For some useful code examples for some specific BigCommerce use cases, see some of my publicly available gists [here](https://gist.github.com/glynnsanity)
 
 
