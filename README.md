@@ -1,7 +1,7 @@
 # Hello, I'm Glynn! 👋
 
 ## About Me 🚀
-I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to some extent for the greater good. When I'm not coding, you can find me doing many things, chief among them right now being learning Spanish! My profile image is a drawing by my favorite illustrator, Jean Giraud, also known as Moebius.
+I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to some extent for the greater good. When I'm not coding, you can find me doing many things, chief among them right now being learning Spanish! My profile image is a drawing by my favorite illustrator, [Jean Giraud](https://en.wikipedia.org/wiki/Jean_Giraud), also known as Moebius.
 
 ## My Work 💻
 - 🔭 Currently hacking and slinging SaaS at BigCommerce, focusing on NextJS and utilizing AI services to build more powerful developer tools.
