@@ -8,7 +8,7 @@ I'm a Senior Solutions Engineer who has worked in eCommerce for nearly a decade.
 - 🌱 NextJS, AI tools, Spanish, Neuroscience, Basketball!
 - 👯 I’m looking to collaborate on lightweight AI side projects.
 - 💬 Ask me about.. anything!
-- 📫 How to reach me: glynn.jordan@bigcommerce.com
+- 📫 How to reach me: glynnjordan.jr@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In 2023, I attended two epic sporting events: [The World Baseball Classic](https://en.wikipedia.org/wiki/2023_World_Baseball_Classic) where Shohei Ohtani won the championship for his country of Japan! - and the [Superclasico](https://en.wikipedia.org/wiki/Supercl%C3%A1sico) in Buenos Aires, "known worldwide as one of the fiercest and most important derbies".
 
