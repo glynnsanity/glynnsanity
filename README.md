@@ -1,13 +1,13 @@
 # Hello, I'm Glynn! 👋
 
 ## About Me 🚀
-I'm a Senior Solutions Engineer at BigCommerce, hopefully wielding JavaScript to some extent for the greater good. When I'm not coding, you can find me doing many things, chief among them right now being learning Spanish!
+I'm a Senior Solutions Engineer who has worked in eCommerce for nearly a decade. At the moment, I'm taking a sabbatical from coding and slinging software so I can learn Spanish full-time and achieve my goal of Spanish fluency (or as close as I can get) by the end of 2024!
 
 ## My Work 💻
-- 🔭 Currently hacking and slinging SaaS at BigCommerce, focusing on NextJS and utilizing AI services to build more powerful developer tools.
-- 🌱 Learning NextJS and various AI tools, and Spanish outside of work!
+- 🔭 My chief focus as far as technology goes is in NextJS and utilizing AI services to build more powerful developer tools.
+- 🌱 NextJS, AI tools, Spanish, Neuroscience, Basketball!
 - 👯 I’m looking to collaborate on lightweight AI side projects.
-- 💬 Ask me about BigCommerce!
+- 💬 Ask me about.. anything!
 - 📫 How to reach me: glynn.jordan@bigcommerce.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In 2023, I attended two epic sporting events: [The World Baseball Classic](https://en.wikipedia.org/wiki/2023_World_Baseball_Classic) where Shohei Ohtani won the championship for his country of Japan! - and the [Superclasico](https://en.wikipedia.org/wiki/Supercl%C3%A1sico) in Buenos Aires, "known worldwide as one of the fiercest and most important derbies".
